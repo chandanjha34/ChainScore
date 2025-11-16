@@ -1,73 +1,144 @@
-# Welcome to your Lovable project
+**ChainScore**
 
-## Project info
+Decentralized Review, Reputation & Reward Economy Powered by Linera
 
-**URL**: https://lovable.dev/projects/124721ab-7567-4700-b810-affdf6f55c83
+**🧠 Why ChainScore?**
 
-## How can I edit this code?
+Today, the internet is full of untrustworthy reviews:
 
-There are several ways of editing your application.
+❌ Fake ratings posted by bots
+❌ Brands deleting legitimate criticism
+❌ Influencers manipulating opinions
+❌ Reviewers get nothing for contributing
+❌ No proof that a reviewer actually used the product
+❌ Centralized platforms control reputation (Google, Yelp, Amazon)
 
-**Use Lovable**
+This leads to broken trust between brands and consumers.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/124721ab-7567-4700-b810-affdf6f55c83) and start prompting.
+**✅ The ChainScore Solution**
 
-Changes made via Lovable will be committed automatically to this repo.
+ChainScore creates a trust-first review ecosystem where:
 
-**Use your preferred IDE**
+✔ Reviews are verified on-chain, not controlled by corporations
+✔ Consumers earn real rewards for honest contributions
+✔ Brands prove authenticity with transparent reputation
+✔ Credibility is algorithmic — not manipulated
+✔ Every business has its own microchain for scalable trust data
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🔗 Powered by Linera microchains, ChainScore turns reputation into a public good — decentralized, fair, and incentivized.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**🌟 Vision**
 
-Follow these steps:
+To make trust measurable, ownership fair, and reputation unstoppable.
+ChainScore is building the world’s first trust economy — where truth pays.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**🧩 Platform Overview**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+ChainScore unites three core components:
 
-# Step 3: Install the necessary dependencies.
-npm i
+1️⃣ Brand On-Chain Reputation Microchains
+2️⃣ Consumer Earn-to-Review Incentive System
+3️⃣ AI + Community Credibility Governance
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Together — a circular economy of trust, transparency & incentives.
 
-**Edit a file directly in GitHub**
+🔹 Brand Portal (Business Dashboard)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Brands sign into ChainScore using their Linera Wallet 🔐
 
-**Use GitHub Codespaces**
+🏪 Claim/Add Listings
+• Restaurants, shops, products, services
+• Upload images + media galleries
+• Add category, map location, business details
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+💰 Launch Reward Pools Smart Contract
+• Deposit tokens → distributed automatically
+• Cycle options: weekly / monthly / custom
+• Reward top verified reviewers 🎯
 
-## What technologies are used for this project?
+📊 Reputation Insights
+• On-chain brand Trust Score
+• Review sentiment analytics (AI)
+• Fake review detection alerts
+• Reviewer credibility heatmaps
+• Campaign ROI & engagement metrics
 
-This project is built with:
+⚡ Every brand runs on its own microchain → infinite scaling
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🔹 Consumer Portal (Explore & Earn)
 
-## How can I deploy this project?
+Users discover and interact with real reviews:
 
-Simply open [Lovable](https://lovable.dev/projects/124721ab-7567-4700-b810-affdf6f55c83) and click on Share -> Publish.
+🔍 Smart Discovery Features
+✔ Search by location, category, tags
+✔ Trending by Trust Score
+✔ Microchain activity feed
 
-## Can I connect a custom domain to my Lovable project?
+📌 Brand Detail Pages
+• On-chain score visualized
+• Review gallery (proof-of-purchase verified)
+• Reward availability & countdown
 
-Yes, you can!
+✍️ Submit Reviews
+• Text, photos, receipts / invoice proof
+• Validation engine → rewards earned
+• NFT achievement badges for credibility 🎖️
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📈 Reputation NFT Profile
+• Reviewer credibility score
+• Reward earnings history
+• Badges + community rank
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+🧠 Trust Engine
+AI + Blockchain = Zero Fake Reviews 🚫
+
+AI checks:
+• Sentiment patterns
+• Fraud signals
+• Duplicate/fake accounts
+
+Community controls:
+• Report, upvote/downvote reviews
+• Brands may dispute with evidence
+• DAO-style trust governance (future)
+
+Only authentic reviews grow reputation.
+
+🔗 Built on Linera Microchains
+Feature	Benefit
+One microchain per brand	Infinite review scalability
+On-chain review storage	No censorship or alteration
+Cross-chain global search	Unified discovery across markets
+Automatic reward payouts	No manual involvement
+Decentralized identity	Reviewer trust is portable
+
+✅ Fully transparent
+✅ Crypto-native incentives
+✅ Scalable from 1 brand → 1M+ brands
+
+🏆 Earn-to-Review Token Economy
+Action	Reward
+Detailed, helpful review	Tokens 💰
+Proof-of-purchase attached	Bonus rewards ✅
+Consistent contributions	Streak multiplier 🔥
+High credibility score	Unlock elite pools 🏅
+
+Truth is rewarded. Manipulation is punished.
+
+**🎨 UX & Design**
+
+✔ Mobile-first responsive UI
+✔ Sticky “Write Review” CTA
+✔ Dark + Light theme
+✔ Reputation visual charts
+✔ Web2 simplicity + Web3 power
+
+Smooth. Intuitive. Trust-centered.
+
+
+🌍 ChainScore = Trust Made Valuable
+
+Consumers gain value
+Brands gain reputation
+Communities gain transparency
+Everyone wins 🎉
